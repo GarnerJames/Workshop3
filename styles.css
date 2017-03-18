@@ -58,3 +58,91 @@ div {
 .nav li:last-child {
   border-right: none;
 }
+
+.Box {
+  background-color: rgb(135,169,132);
+  height: 212px;
+  margin-top: 18px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 920px;
+  overflow: hidden;
+}
+
+.Plane {
+margin-top: -153px;
+}
+
+.About {
+  font-weight: bold;
+  color: white;
+  font-size: 3rem;
+  margin-left: 280px;
+  margin-right: 270px;
+  margin-top: 40px;
+}
+
+.Para {
+margin-top: 5px;
+font-weight: normal;
+color: rgba(300,300,300,0.50);
+font-size: 1rem
+}
+
+.hold {
+margin-left: auto;
+margin-right: auto;
+max-width: 925px;
+height: 620px;
+margin-top: 18px;
+overflow: hidden;
+
+}
+
+
+.Blue {
+  background-color: rgb(150,175,172);
+  height: 620px;
+  max-width: 197px;
+  margin-top: -636px;
+  margin-left: 3px;
+  font-size: 1rem;
+  }
+
+.Blue li {
+display: block;
+font-size: 1rem;
+padding: 6px 20px;
+font-family: sans-serif;
+border-bottom: 1px solid rgb(300,300,300);
+}
+
+.Blue ol {
+padding: 18px 10px;
+}
+
+ .Sand {
+   background-color: rgb(219,216,197);
+   height: 620px;
+   max-width: 727px;
+   margin-left: 198px;
+   overflow: hidden;
+ }
+
+ .howwework {
+   font-size: 2rem;
+   font-weight: bold;
+   font-family: sans-serif;
+   color: rgb(89,111,122);
+   margin-left: 40px;
+   margin-top: 40px;
+ }
+
+.paragraph {
+  font-size: 0.9rem;
+  font-family: sans-serif;
+  color: black;
+  margin-left: 40px;
+  margin-right: 50px;
+  margin-top: 30px;
+}
